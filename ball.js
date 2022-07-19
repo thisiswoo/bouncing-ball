@@ -34,6 +34,5 @@ export class Ball {
             this.vy *= -1;
             this.y += this.vy;
         }
-
     }
 }

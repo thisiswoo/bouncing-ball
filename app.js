@@ -31,6 +31,7 @@ class App {
 
         this.ball.draw(this.ctx, this.stageWidth, this.stageHeight);
     }
+
 }
 
 window.onload = () => {
