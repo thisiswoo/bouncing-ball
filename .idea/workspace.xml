@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="210ec110-1cc1-4eb5-a406-2a6036346311" name="Changes" comment="delete the shadow of the ball">
-      <change afterPath="$PROJECT_DIR$/block.js" afterDir="false" />
+    <list default="true" id="210ec110-1cc1-4eb5-a406-2a6036346311" name="Changes" comment="create block and block shadow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/block.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,8 @@
       <updated>1658236558918</updated>
       <workItem from="1658236560144" duration="2495000" />
       <workItem from="1658320789761" duration="1345000" />
-      <workItem from="1658401895245" duration="1268000" />
+      <workItem from="1658401895245" duration="1378000" />
+      <workItem from="1658485794204" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="create index.html, style.css, app.js, ball.js and draw test ball">
       <created>1658238006373</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658324428140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create block and block shadow">
+      <created>1658409988488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658409988488</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create index.html, style.css, app.js, ball.js and draw test ball" />
     <MESSAGE value="delete the shadow of the ball" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete the shadow of the ball" />
+    <MESSAGE value="create block and block shadow" />
+    <option name="LAST_COMMIT_MESSAGE" value="create block and block shadow" />
   </component>
 </project>
